@@ -120,7 +120,7 @@ endmodule
 
 
 ## DOWNCOUNTER
-![Screenshot (40)](https://github.com/LavanyaMuraleedharan/Exp-7-Synchornous-counters-/assets/120103862/8067bcee-051b-4f94-95a8-3d512b9bbf0d)
+![image](https://github.com/LavanyaMuraleedharan/Exp-7-Synchornous-counters-/assets/120103862/a4c5b320-99f3-4535-9e5e-24a69f5eb22a)
 
 
 
