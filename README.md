@@ -106,7 +106,7 @@ endmodule
 ![image](https://github.com/LavanyaMuraleedharan/Exp-7-Synchornous-counters-/assets/120103862/7a01e873-0d26-4ede-94e0-b0fc210fe83f)
 
 ## DOWNCOUNER
-![image](https://github.com/LavanyaMuraleedharan/Exp-7-Synchornous-counters-/assets/120103862/be7ae0ab-38ef-408e-be62-1c633af61131)
+![image](https://github.com/LavanyaMuraleedharan/Exp-7-Synchornous-counters-/assets/120103862/9dba974d-9e18-40cf-9e48-7ba1ef863d84)
 
 
 
